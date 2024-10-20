@@ -22,3 +22,20 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+### JetBrains template
+*.iml
+!.idea/encodings.xml
+!.idea/resourceBundles.xml
+.idea/
+.run/
+/out/
+
+### Eclipse template
+.project
+.settings/
+.classpath
+
+### VSCode template
+.vscode/
+.vscode
